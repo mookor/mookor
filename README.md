@@ -8,16 +8,21 @@
 
 ## 🚀 О себе
 
-🏠 **Работаю из дома** | 🎯 **Специализируюсь на Python разработке**
+🏠 **Работаю из дома** | 🎯 **Python Developer с 4+ годами опыта** 
 
-Я увлеченный разработчик с фокусом на машинное обучение, компьютерное зрение и автоматизацию. Люблю создавать практические решения для реальных задач - от игровых ботов до IoT систем.
+Опытный разработчик с глубокой экспертизой в машинном обучении, компьютерном зрении и нейроморфных вычислениях. Участник профильных конференций и активный исследователь в области ИИ.
 
-### 🎯 Мои интересы:
-- 🤖 **Machine Learning & AI** - Создание интеллектуальных систем
-- 👁️ **Computer Vision** - Обработка изображений и детекция объектов
-- 🎮 **Game Automation** - Разработка ботов и автоматизация игровых процессов
-- 🏠 **IoT & Home Automation** - Умный дом и интеграция с Home Assistant
-- 📊 **Data Science** - Анализ табличных данных и регрессионные модели
+### 💼 Профессиональный опыт:
+- 🐍 **Python разработка** - 4+ года (классические ML, DL, CV)
+- ⚡ **C++ разработка** - 1+ год (высокопроизводительные системы)
+- 🏭 **Промышленная автоматизация** - полный цикл с Arduino Opta, электросхемы, конвейеры
+- 👨‍💼 **Team Leadership** - опыт ведения проектов и наставничества
+- 🧠 **Нейроморфные системы** - разработка алгоритмов для специализированного оборудования
+- 🎯 **Computer Vision** - детекция, сегментация, 6D Pose Estimation, аномалии
+
+### 🎓 Образование и достижения:
+- 🎓 **НГТУ** - Факультет прикладной математики и информатики (2016-2020)
+- 🏆 **Конференции**: Нейроинформатика 2022, Kaspersky Neuromorphic AI 2022/2023, Микроэлектроника 2023
 
 ---
 
@@ -28,20 +33,33 @@
 ### Языки программирования
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ML/AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Frameworks & Tools
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+### Backend & API
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Multiprocessing](https://img.shields.io/badge/Multiprocessing-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+
+### Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino Opta](https://img.shields.io/badge/Arduino%20Opta-FF6600?style=for-the-badge&logo=arduino&logoColor=white)
+![Industrial Automation](https://img.shields.io/badge/Industrial%20Automation-FF4500?style=for-the-badge&logo=factory&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Neuromorphic](https://img.shields.io/badge/Neuromorphic-8A2BE2?style=for-the-badge&logo=brain&logoColor=white)
 
 </div>
 
@@ -153,10 +171,35 @@
 
 ## 🎯 Текущие цели
 
-- 🔬 Углубление в нейроморфные вычисления (работа с Kaspersky Neuromorphic Platform)
-- 🤖 Развитие навыков в области компьютерного зрения
-- 🏠 Создание более сложных IoT решений для умного дома
-- 📈 Участие в open-source проектах
+- 🔬 Углубление в нейроморфные вычисления и специализированное оборудование
+- 🚀 Развитие высокопроизводительных решений на C++
+- 🤖 Исследования в области 6D Pose Estimation и промышленного CV
+- 👥 Развитие лидерских навыков и менторства
+- 📈 Участие в профильных конференциях и open-source проектах
+
+## 💡 Экспертиза
+
+### 🧠 Machine Learning & Computer Vision
+- **Классические ML алгоритмы** - регрессия, классификация, кластеризация
+- **Deep Learning** - PyTorch, TensorFlow для задач CV
+- **Computer Vision** - детекция объектов, сегментация, 6D Pose Estimation
+- **Обнаружение аномалий** - в телеметрии и промышленных процессах
+- **Геометрические измерения** - контроль качества и параметров объектов
+
+### ⚡ Высокопроизводительная разработка
+- **Многопроцессорное программирование** - оптимизация вычислений
+- **Нейроморфные системы** - портирование нейросетей на специализированное оборудование
+- **Архитектура ПО** - проектирование масштабируемых систем
+- **Деплой моделей** - на целевые устройства и продакшн
+
+### 🔧 Инженерные решения
+- **Промышленная автоматизация** - полный цикл разработки с Arduino Opta
+- **Электросхемы и конвейеры** - проектирование и настройка производственных линий
+- **Пульты управления** - разработка интерфейсов для управления оборудованием
+- **Автоматическая разметка данных** - инструменты для ML пайплайнов
+- **Интеграция камер** - объединение нескольких web-камер в единую систему
+- **Пользовательские интерфейсы** - для взаимодействия с драйверами оборудования
+- **Контроль операций** - мониторинг и валидация ручных процессов
 
 ---
 
